@@ -49,7 +49,7 @@ Apart from coding and building projects, I enjoy watching anime and exploring ne
 - To design and build innovative robotic solutions.
 - To become proficient in multiple programming languages and tools.
 
-![Future Goals GIF](https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b95214yxn19awa6myfb77678d60of156zlib4irow8ac&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)  <!-- Replace with a future goals-related GIF -->
+ <!-- Replace with a future goals-related GIF -->
 
 Thank you for visiting my profile! Feel free to connect with me and explore my repositories. Let's build something amazing together!
 
